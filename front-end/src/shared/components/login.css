@@ -1,0 +1,22 @@
+.paperstyle {
+    width: 155%;
+    padding: 20;
+    height: 45vh;
+    margin: "10px auto";
+}
+
+.input {
+    width: 75%;
+    height: 100%;
+    padding: 30;
+    margin: "dence";
+}
+
+.avatar {
+    background-color: "green";
+    margin-top: 7%;
+}
+
+.button {
+    width: "70vw";
+}
