@@ -1,7 +1,6 @@
 import Box from "@mui/material/Box";
 import TextField from "@mui/material/TextField/TextField";
 import Paper from "@mui/material/Paper";
-import "./login.css";
 import { Avatar, Button } from "@mui/material";
 import LockIcon from "@mui/icons-material/Lock";
 
